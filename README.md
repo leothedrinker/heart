@@ -1,5 +1,5 @@
 # heart
-Ascii art of a heart
+Ascii art of a rotating heart
 
 ```
                        =!**####$$$$$$$$@$@@$$                                                                                          
